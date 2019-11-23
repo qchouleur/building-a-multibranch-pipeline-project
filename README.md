@@ -18,4 +18,3 @@ contains shell scripts with commands that are executed when Jenkins processes
 either the "Deliver for development" or "Deploy for production" stages of your
 Pipeline (depending on the branch that Jenkins builds from).
 
-This is a great event test. random.
